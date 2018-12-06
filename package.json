@@ -1,0 +1,28 @@
+{
+  "name": "test-task-3",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "start": "node dist/index.js",
+    "test": "jasmine"
+  },
+  "author": "Sergey Maksimenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.6",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "deep-equal": "^1.0.1",
+    "jasmine": "^3.3.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "node-xml2js-promise": "^1.1.1"
+  }
+}
