@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    
+        <url>
+            <loc>https://tvzvezda.ru/news/vstrane_i_mire/content/201812060826-tlo0.htm</loc>
+            <news>
+                <publication>
+                    <name>Телеканал "Звезда"</name>
+                    <language>ru</language>
+                </publication>
+
+                <publication_date>2018-12-06T08:26:00+03:00</publication_date>
+
+                <title>Ученые предрекли Земле новый Всемирный потоп</title>
+                
+                
+                    <keywords>Наука, стихия, планета, природа, Всемирный потоп, в стране и мире</keywords>
+                
+            </news>
+        </url>
+    
+        <url>
+            <loc>https://tvzvezda.ru/news/forces/content/201812060820-e5s4.htm</loc>
+            <news>
+                <publication>
+                    <name>Телеканал "Звезда"</name>
+                    <language>ru</language>
+                </publication>
+
+                <publication_date>2018-12-06T08:20:00+03:00</publication_date>
+
+                <title>Разведчики ЮВО провели уникальную спецоперацию</title>
+                
+                
+                    <keywords>Минобороны, юво, разведчики, Северная Осетия, видео, армия</keywords>
+                
+            </news>
+        </url>
+    
+        <url>
+            <loc>https://tvzvezda.ru/news/vstrane_i_mire/content/201812060819-l1qx.htm</loc>
+            <news>
+                <publication>
+                    <name>Телеканал "Звезда"</name>
+                    <language>ru</language>
+                </publication>
+
+                <publication_date>2018-12-06T08:19:00+03:00</publication_date>
+
+                <title>В Краснодарском крае шесть человек погибли в результате ДТП со скорой</title>
+                
+                
+                    <keywords>Краснодар, Трагедия, Скорая помощь, ДТП, в стране и мире</keywords>
+                
+            </news>
+        </url>
+
+</urlset>    
